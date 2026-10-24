@@ -56,55 +56,49 @@ useful to the people who rely on it.
 
 ## 🛠️ My Tech World
 
+
+## 🛠️ Tech Stack & Expertise
+
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,python,typescript,javascript&perline=5" alt="Java, C#, Python, TypeScript, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java,cs,python,ts,js&perline=5" alt="Java, C#, Python, TypeScript, JavaScript" />
 </p>
 
 ### ⚙️ Backend & Integration
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,kafka,elasticsearch&perline=5" alt="Spring, Hibernate, Kafka, Elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=spring,kafka,elasticsearch&perline=3" alt="Spring, Kafka, Elasticsearch" />
 </p>
-
-- Spring Boot · JEE · REST APIs · Microservices · OpenAPI
+`Spring Boot` · `JEE` · `REST APIs` · `Microservices` · `OpenAPI` · `Hibernate`
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap&perline=5" alt="Angular, TypeScript, HTML, CSS, Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css&perline=4" alt="Angular, Bootstrap, HTML, CSS" />
 </p>
-
-- Thymeleaf · WPF · HTML5 · CSS3
+`Thymeleaf` · `WPF`
 
 ### 🗄️ Databases & Persistence
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" alt="PostgreSQL, MySQL, MongoDB" />
 </p>
+`SQL` · `HQL` · `Criteria API` · `Liquibase`
 
-- SQL · HQL · Hibernate Criteria API · Liquibase
-
-### ☁️ Cloud, DevOps & CI/CD
+### ☁️ Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions&perline=5" alt="AWS, Docker, Kubernetes, Jenkins, GitHub Actions" />
 </p>
+`CI/CD`
 
-- Continuous Integration & Continuous Delivery (CI/CD)
-
-### 🧪 Testing & Quality Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium&perline=1" alt="Selenium" />
-</p>
-
-- JUnit · Mockito · Selenium · Testcontainers
+### 🧪 Testing & Quality
+`JUnit` · `Mockito` · `Selenium` · `Testcontainers`
 
 ### 🔄 BPM & Business Rules
-- Camunda · Activiti · Drools · BPMN
+`Camunda` · `Activiti` · `Drools` · `BPMN`
 
 ### 🔧 Tools & Collaboration
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,bitbucket,idea&perline=4" alt="Git, GitHub, Bitbucket, IntelliJ IDEA" />
 </p>
-
-- Jira
+`Jira`
 
 
 ## 🚀 Things I've Been Building
