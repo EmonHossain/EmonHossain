@@ -88,15 +88,6 @@ developed as part of a SmartWindow project.
 - Containerization and CI/CD pipelines
 - Application monitoring and deployment automation
 
-## GitHub Activity
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmonHossain&layout=compact&hide_border=true&theme=default"
-    alt="Most-used languages"
-  />
-</p>
-
 ---
 
 <p align="center">
