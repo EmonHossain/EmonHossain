@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Emon Hossain 👋</h1>
 
 <h3 align="center">
-  Software Engineer | Java Enthusiast | Full-Stack Developer
+  Software Engineer | Java & Spring Boot | Microservices | Angular | Cloud & DevOps
 </h3>
 
 <p align="center">
