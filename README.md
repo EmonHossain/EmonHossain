@@ -93,15 +93,6 @@ jumping into a solution, and continuously improving along the way.
 I appreciate thoughtful design, practical solutions, honest feedback,
 and the kind of teamwork where everyone gets to learn something.
 
-## 📊 A Glimpse at My GitHub
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=EmonHossain&show_icons=true&hide_border=true"
-    alt="Emon Hossain's GitHub statistics"
-  />
-</p>
-
 ## 🤝 Let's Connect
 
 I'm always happy to connect with fellow developers, exchange ideas,
