@@ -56,9 +56,6 @@ useful to the people who rely on it.
 
 ## 🛠️ My Tech World
 
-
-## 🛠️ Tech Stack & Expertise
-
 ### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,cs,python,ts,js&perline=5" alt="Java, C#, Python, TypeScript, JavaScript" />
