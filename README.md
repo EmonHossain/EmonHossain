@@ -56,17 +56,56 @@ useful to the people who rely on it.
 
 ## 🛠️ My Tech World
 
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,python&perline=6" alt="Programming languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,cs,python,typescript,javascript&perline=5" alt="Java, C#, Python, TypeScript, JavaScript" />
 </p>
 
+### ⚙️ Backend & Integration
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap&perline=5" alt="Angular and frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,kafka,elasticsearch&perline=5" alt="Spring, Hibernate, Kafka, Elasticsearch" />
 </p>
 
+- Spring Boot · JEE · REST APIs · Microservices · OpenAPI
+
+### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,jenkins,githubactions,linux,git,github&perline=5" alt="Development, databases, and DevOps tools" />
+  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap&perline=5" alt="Angular, TypeScript, HTML, CSS, Bootstrap" />
 </p>
+
+- Thymeleaf · WPF · HTML5 · CSS3
+
+### 🗄️ Databases & Persistence
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" alt="PostgreSQL, MySQL, MongoDB" />
+</p>
+
+- SQL · HQL · Hibernate Criteria API · Liquibase
+
+### ☁️ Cloud, DevOps & CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions&perline=5" alt="AWS, Docker, Kubernetes, Jenkins, GitHub Actions" />
+</p>
+
+- Continuous Integration & Continuous Delivery (CI/CD)
+
+### 🧪 Testing & Quality Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium&perline=1" alt="Selenium" />
+</p>
+
+- JUnit · Mockito · Selenium · Testcontainers
+
+### 🔄 BPM & Business Rules
+- Camunda · Activiti · Drools · BPMN
+
+### 🔧 Tools & Collaboration
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,idea&perline=4" alt="Git, GitHub, Bitbucket, IntelliJ IDEA" />
+</p>
+
+- Jira
+
 
 ## 🚀 Things I've Been Building
 
