@@ -92,13 +92,6 @@ developed as part of a SmartWindow project.
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=EmonHossain&show_icons=true&hide_border=true&theme=default"
-    alt="GitHub statistics"
-  />
-</p>
-
-<p>
-  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmonHossain&layout=compact&hide_border=true&theme=default"
     alt="Most-used languages"
   />
