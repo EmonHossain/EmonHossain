@@ -1,130 +1,111 @@
 
 <h1 align="center">Emon Hossain</h1>
 
-<h3 align="center">
-  Software Engineer | Java • Full-Stack • DevOps
-</h3>
+<h3 align="center">Software Engineer · Java · Full-Stack · DevOps</h3>
 
 <p align="center">
-  Designing and building reliable, maintainable, and scalable software.
+  Building reliable backend systems, practical applications,
+  and maintainable software.
 </p>
 
 <p align="center">
   <a href="https://github.com/EmonHossain">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add your LinkedIn URL when ready -->
-  <!-- Add your portfolio URL when ready -->
+  <a href="https://github.com/EmonHossain?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-0969DA?style=flat-square&logo=github" alt="Explore repositories" />
+  </a>
 </p>
 
 ---
 
-## Professional Summary
+## About Me
 
-Software Engineer focused on Java-based backend development,
-full-stack application engineering, and DevOps practices.
+I'm a Software Engineer focused on Java development, full-stack
+applications, and DevOps practices. I enjoy designing maintainable
+software, building backend services, and improving the way
+applications are tested, packaged, and deployed.
 
-Interested in designing clean APIs, building maintainable software,
-working with databases, and improving application delivery through
-automation and modern development workflows.
-
-- **Primary focus:** Java and backend engineering
-- **Engineering interests:** Full-stack development, software architecture, and API design
-- **DevOps interests:** CI/CD, containerization, automation, and deployment workflows
-- **Approach:** Clean code, maintainability, reliability, and continuous improvement
+- ☕ **Backend:** Java and Spring Boot
+- 🧩 **Full-stack:** Building applications across backend and frontend
+- ⚙️ **DevOps:** Docker, CI/CD, and automated development workflows
+- 🏗️ **Engineering:** API design, security, testing, and maintainability
+- 📍 **Location:** Chemnitz, Germany
 
 ## Technical Skills
 
-**Languages**
-- Java
-- JavaScript / TypeScript *(include only those you use)*
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,javascript,typescript&perline=6" alt="Programming languages and frameworks" />
+</p>
 
-**Backend Development**
-- Spring Boot *(if applicable)*
-- REST APIs
-- Authentication and authorization
-- Object-oriented programming and design principles
-
-**Frontend Development**
-- React *(if applicable)*
-- HTML, CSS, and JavaScript
-
-**Databases**
-- PostgreSQL / MySQL *(list the databases you use)*
-
-**DevOps & Tools**
-- Git and GitHub
-- Docker
-- CI/CD pipelines
-- Linux
-- Cloud platforms *(list your actual platforms)*
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,linux,git,github,mysql,postgres&perline=6" alt="DevOps, databases, and development tools" />
+</p>
 
 ## Featured Projects
 
-### 1. Project Name — Java Backend Application
-**Technologies:** Java, Spring Boot, PostgreSQL
+### 1. [Toppersnote](https://github.com/EmonHossain/toppersnote)
+**Java · Backend Engineering · CI/CD · Docker**
 
-A backend application designed to demonstrate API development,
-data persistence, and maintainable application architecture.
+A platform for sharing academic notes, designed to make educational
+resources easier to access and share.
 
-- Implemented RESTful endpoints for core application functionality.
-- Organized application logic into maintainable components.
-- Added input validation and error handling.
+- Explore backend architecture and application functionality.
+- Review the project's build, containerization, and automation setup.
+- See how the application evolves through its source code.
 
-**[View Repository](https://github.com/EmonHossain)**
+### 2. [ShareNote Frontend](https://github.com/EmonHossain/sharenote-frontend)
+**TypeScript · Frontend Development**
 
-### 2. Project Name — Full-Stack Application
-**Technologies:** Java, Spring Boot, React, PostgreSQL
+The frontend project for a note-sharing application.
 
-A full-stack application connecting a user interface with backend
-services and persistent data storage.
+- Explore the user-facing application and frontend implementation.
+- Review the structure and development approach in the codebase.
 
-- Integrated frontend components with backend APIs.
-- Implemented data management and application workflows.
-- Focused on usability, maintainability, and separation of concerns.
+### 3. [Job Tracker](https://github.com/EmonHossain/job-tracker)
+**JavaScript · Application Development**
 
-**[View Repository](https://github.com/EmonHossain)**
+An application that helps job seekers organize applications and
+track the progress of opportunities in one place.
 
-### 3. Project Name — CI/CD & Deployment
-**Technologies:** Docker, GitHub Actions, Linux
+- Centralizes job application information.
+- Helps users monitor application status and history.
 
-A project exploring automated builds, testing, and application
-deployment using modern development workflows.
+### 4. [Smart Window](https://github.com/EmonHossain/smart-window)
+**Python · Django · Machine Learning**
 
-- Configured automated build and test steps.
-- Containerized the application for consistent environments.
-- Documented setup and deployment instructions.
+A prototype for a collective visual passenger information system,
+developed as part of a SmartWindow project.
 
-**[View Repository](https://github.com/EmonHossain)**
+- Combines web application development with machine learning.
+- Demonstrates a practical application of data-driven functionality.
 
-## Engineering Principles
+## Engineering Interests
 
-- Readable, maintainable, and testable code
-- Clear API contracts and separation of concerns
-- Version control and collaborative development
-- Automated testing and repeatable builds
-- Continuous learning and engineering improvement
+- Backend architecture and REST API design
+- Secure authentication and authorization
+- Automated testing and code quality
+- Containerization and CI/CD pipelines
+- Application monitoring and deployment automation
 
 ## GitHub Activity
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=EmonHossain&show_icons=true&hide_border=true"
-    alt="GitHub contribution and repository statistics"
+    src="https://github-readme-stats.vercel.app/api?username=EmonHossain&show_icons=true&hide_border=true&theme=default"
+    alt="GitHub statistics"
+  />
+</p>
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmonHossain&layout=compact&hide_border=true&theme=default"
+    alt="Most-used languages"
   />
 </p>
 
 ---
 
-## Contact
-
-- **GitHub:** [EmonHossain](https://github.com/EmonHossain)
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Portfolio:** Add your portfolio URL, if available
-- **Email:** Add a professional contact email, if you want it public
-
----
-
 <p align="center">
-  <i>Focused on building dependable software and continuously improving as an engineer.</i>
+  <i>Engineering reliable software, one project at a time.</i>
 </p>
