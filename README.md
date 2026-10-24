@@ -61,7 +61,11 @@ useful to the people who rely on it.
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,postgres,docker,jenkins,githubactions,linux,git,github&perline=5" alt="Development, databases, and DevOps tools" />
+  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap&perline=5" alt="Angular and frontend technologies" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,jenkins,githubactions,linux,git,github&perline=5" alt="Development, databases, and DevOps tools" />
 </p>
 
 ## 🚀 Things I've Been Building
