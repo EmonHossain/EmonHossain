@@ -61,7 +61,7 @@ useful to the people who rely on it.
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap&perline=5" alt="Angular and frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap&perline=5" alt="Angular and frontend technologies" />
 </p>
 
 <p>
